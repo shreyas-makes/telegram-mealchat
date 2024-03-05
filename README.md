@@ -30,7 +30,7 @@ This is a Telegram bot that receives an image and replies with a description of 
 - Note down the API token provided by BotFather.
 
 2. Create a `.env` file in the project directory:
-- Add your Telegram API token to the `.env` file:
+Add your Telegram API token to the `.env` file:
   ```
   TELEGRAM_API_KEY=<your-telegram-api-token>
   ```
@@ -44,10 +44,10 @@ Run the bot script:
 3. Start a conversation with your bot on Telegram and send an image to receive a description.
 
 ## Deployment
-- You can deploy this bot on cloud platforms like Heroku, AWS, or Google Cloud Platform for continuous operation.
+You can deploy this bot on cloud platforms like Heroku, AWS, or Google Cloud Platform for continuous operation.
 
 ## Contributing
-- Contributions are welcome! Feel free to submit issues or pull requests.
+Contributions are welcome! Feel free to submit issues or pull requests.
 
 Make sure to replace <repository-url> with the actual URL of your repository and <your-telegram-api-token> with your Telegram API token. Feel free to modify it according to your project's requirements.
 
