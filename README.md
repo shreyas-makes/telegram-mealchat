@@ -1,8 +1,7 @@
 # Telegram GPT-4 Vision Bot
 
-![shreyas-06-03-2024 at 05 33 29@2x](https://github.com/shreyas-makes/telegram-mealchat/assets/7238886/7c98ccc7-00ad-41c4-8f0a-888df1665bb0)
-![shreyas-06-03-2024 at 05 34 03@2x](https://github.com/shreyas-makes/telegram-mealchat/assets/7238886/8fa1ee2c-6332-4333-9248-a9faf9573afd)
-![shreyas-06-03-2024 at 05 34 17@2x](https://github.com/shreyas-makes/telegram-mealchat/assets/7238886/4eeab5eb-c383-42c8-a6de-b6055597253e)
+![image](https://github.com/shreyas-makes/telegram-mealchat/assets/7238886/36c2a575-0016-4824-b545-fc9b88100e76)
+
 
 ## Description
 This is a Telegram bot that receives an image and replies with a description of the image using OpenAI's GPT-4 Vision model.
