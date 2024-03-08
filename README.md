@@ -1,4 +1,4 @@
-# Telegram GPT-4 Vision Bot
+# Healthy Meal Recommender
 
 ![image](https://github.com/shreyas-makes/telegram-mealchat/assets/7238886/36c2a575-0016-4824-b545-fc9b88100e76)
 
